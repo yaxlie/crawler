@@ -77,14 +77,18 @@ public class Spider {
     }
 
     private void deleteResFiles(){
-        for(File file: new java.io.File(".\\res\\").listFiles())
-            if (!file.isDirectory())
-                file.delete();
+        try {
+            for (File file : new java.io.File(".\\res\\").listFiles())
+                if (!file.isDirectory())
+                    file.delete();
+        }
+        catch(Exception ignored){}
     }
 
     public void saveFoundPages(){
         int i=0;
         deleteResFiles();
+        new File(".\\res").mkdirs();
         for(String s : successPagesUrls){
             System.out.println("Saving... "+ s);
             try {
