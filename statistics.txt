@@ -1,0 +1,509 @@
+Movie: 0
+Sentences: 0
+Tokens: 0
+Stemmed forms (unique): 0
+Words from a dictionary (unique): 0
+People: 
+Locations: 
+Organizations: 
+
+Movie: 1
+Sentences: 0
+Tokens: 0
+Stemmed forms (unique): 0
+Words from a dictionary (unique): 0
+People: 
+Locations: 
+Organizations: 
+
+Movie: 10
+Sentences: 22
+Tokens: 478
+Stemmed forms (unique): 311
+Words from a dictionary (unique): 34
+People: Sam " Ace " Rothstein, Martina Scorsese, Nicholas Pileggi, Robert De Niro, Joe Pesci, Sam Rothstein, Robert De Niro, Sam, Nicky Santoro, Joe Pesci)
+Locations: Las Vegas, Las Vegas, Las Vegas
+Organizations: 
+
+Movie: 11
+Sentences: 21
+Tokens: 521
+Stemmed forms (unique): 346
+Words from a dictionary (unique): 18
+People: Neil McCauley, Vincent Hanna, Robert De Niro, Al Pacino, Neil McCauley, Robert De Niro, Val Kilmer, Tom Sizemore, Vincent Hanna, Al Pacino, Vincent Hanna, Al Pacino, Neil, Neil
+Locations: Los Angeles
+Organizations: 
+
+Movie: 12
+Sentences: 28
+Tokens: 480
+Stemmed forms (unique): 314
+Words from a dictionary (unique): 27
+People: Robert De Niro, Steven, John Savage, Nick ( Christopher Walken, Steven, Michael, Nick, Steven, Michael Cimino
+Locations: 
+Organizations: GENIALNE
+
+Movie: 13
+Sentences: 20
+Tokens: 306
+Stemmed forms (unique): 222
+Words from a dictionary (unique): 22
+People: Robin Williams, Robert De Niro, Williams, Robert de Niro, Robin Williams
+Locations: 
+Organizations: 
+
+Movie: 14
+Sentences: 29
+Tokens: 534
+Stemmed forms (unique): 367
+Words from a dictionary (unique): 21
+People: Han Solo, George, Han Solo
+Locations: Luke Skywalker, Luke, Luke
+Organizations: 
+
+Movie: 15
+Sentences: 24
+Tokens: 356
+Stemmed forms (unique): 253
+Words from a dictionary (unique): 20
+People: Ojciec Bobby, Barry Levinson, Dustin Hoffman, Brad Pitt, Kevin Bacon, Robert De Niro, Barry Levinson
+Locations: 
+Organizations: 
+
+Movie: 16
+Sentences: 19
+Tokens: 350
+Stemmed forms (unique): 239
+Words from a dictionary (unique): 17
+People: Travis, Robert De Niro, Betsy, Jodie Foster, Taksówkarz " Martina Scorsesego, Robertem De Niro, Al Paczino
+Locations: 
+Organizations: 
+
+Movie: 17
+Sentences: 25
+Tokens: 445
+Stemmed forms (unique): 283
+Words from a dictionary (unique): 20
+People: Gabriel, Jeremy Irons, Robert De Niro, Złotą Palmą, Roland Joffe, Jeremy Irons
+Locations: 
+Organizations: 
+
+Movie: 18
+Sentences: 16
+Tokens: 398
+Stemmed forms (unique): 278
+Words from a dictionary (unique): 17
+People: Robert De Niro, Francis Capra, Robert De Niro, Rocky Marciano, Sugar Ray Robinson, Joe Luis
+Locations: 
+Organizations: 
+
+Movie: 19
+Sentences: 25
+Tokens: 402
+Stemmed forms (unique): 274
+Words from a dictionary (unique): 18
+People: William, Sean Connery, Ron Perlman, Nie
+Locations: 
+Organizations: 
+
+Movie: 2
+Sentences: 1
+Tokens: 14
+Stemmed forms (unique): 13
+Words from a dictionary (unique): 1
+People: 
+Locations: 
+Organizations: 
+
+Movie: 20
+Sentences: 25
+Tokens: 474
+Stemmed forms (unique): 313
+Words from a dictionary (unique): 23
+People: Ala Capone, Eliot Ness, Al Capone, Robert De Niro, Eliot Ness, Kevin Costner, Brian De Palma, Ala Capone, Robert De Niro ) Elliot Ness, Kevin Costner, Malone, Robert De Niro, Ala Capone, Drugi
+Locations: Chicago, Ala Capone
+Organizations: FBI
+
+Movie: 21
+Sentences: 23
+Tokens: 436
+Stemmed forms (unique): 290
+Words from a dictionary (unique): 23
+People: Martina Scorsese, Martina Scorsese, Sam, Martin Scorsese
+Locations: La Motty
+Organizations: 
+
+Movie: 22
+Sentences: 20
+Tokens: 278
+Stemmed forms (unique): 201
+Words from a dictionary (unique): 12
+People: Historia, Carl Brashear, Billy 'ego Sundaya, Robert De Niro, Carl, Leslie W. " Billy " Sunday, Carl, Brashear, Robert De Niro
+Locations: Cuba
+Organizations: 
+
+Movie: 23
+Sentences: 18
+Tokens: 427
+Stemmed forms (unique): 306
+Words from a dictionary (unique): 25
+People: Eddie Morra, Bradley Cooper, Sam
+Locations: Hollywood
+Organizations: Film
+
+Movie: 24
+Sentences: 29
+Tokens: 446
+Stemmed forms (unique): 298
+Words from a dictionary (unique): 26
+People: Paul Sheldon, James Caan, Kathy Bates, Paula, Stephen King, Sheldon, Kathy Bates, Nie, Kathy Bates
+Locations: 
+Organizations: 
+
+Movie: 25
+Sentences: 21
+Tokens: 292
+Stemmed forms (unique): 214
+Words from a dictionary (unique): 15
+People: John McClane, Bruce, Willisa, John, Bruce Willis, Kevin
+Locations: Los Angeles
+Organizations: 
+
+Movie: 26
+Sentences: 15
+Tokens: 355
+Stemmed forms (unique): 244
+Words from a dictionary (unique): 20
+People: 
+Locations: Seattle, Salt Lake City, Seattle
+Organizations: 
+
+Movie: 27
+Sentences: 0
+Tokens: 0
+Stemmed forms (unique): 0
+Words from a dictionary (unique): 0
+People: 
+Locations: 
+Organizations: 
+
+Movie: 28
+Sentences: 28
+Tokens: 644
+Stemmed forms (unique): 408
+Words from a dictionary (unique): 21
+People: Da Vinci, Ellen Barkin, Rick Dalton Dr Henry Howard Holmes Jack van Laningham, Glass Jordan Belfort Jay Gatsby Calvin Candie J. Edgar Hoover Teddy Daniels Cobb Frank Wheeler Roger Ferris Billy Costigan Danny Archer Howard Hughes Amsterdam Vallon Frank Abagnale Jr Derek Richard Król Ludwik XIV, Jack Dawson Hank Romeo Arthur Rimbaud Jim Carroll Kid Bud Tobias " Toby " Wolff Arnie Grape Guy Josh Garry Buckman Luke Brower Walczący, William M. ' Billy ' Costigan Jr. Jack Dawson Romeo, Jack Dawson Jack Dawson To, Leo, Leo, Leo
+Locations: 
+Organizations: FBI, Hoover Teddy Daniels Cobb Frank Wheeler Roger Ferris Billy Costigan Danny Archer Howard Hughes Amsterdam Vallon Frank
+
+Movie: 29
+Sentences: 22
+Tokens: 696
+Stemmed forms (unique): 464
+Words from a dictionary (unique): 35
+People: Robert De Niro, Stella Adler Conservatory, Stella Adler, Frank Sheeran Carlos Marcello Ed Dean Martin Bernie Madoff Jackie Burke Ray Arcel Dick Kelly Ben Frank Pope Rudy Dragna Don Griffin Benjamin Ford Paddy Fred Blake, Simon Silver Jonathan Flynn Vic Sarcone Patrizio " Pat Sr ., Hunter, Carl Van Loon Adrian Stan Harris Jack Byrnes Jack Mabry Senator John McLaughlin Frank Ben Turk Kapitan Szekspir Bill Sullivan Doktor David Callaway Richard Wells Jack Byrnes Arcybiskup Vincent Lamarca Mitch Preston Paul Vitti Detektyw Eddie Flemming Nick Wells Jack Byrnes Nieustraszony, Szef Leslie W. " Billy " Sunday Paul Vitti Walt Koontz Sam Więzień, Conrad Brean Louis Gara Gil Renard Dr Wally Ojciec Bobby Neil McCauley Sam " Ace " Rothstein Stwór Mąż, Dwight Hansen Wayne " Mad Dog " Dobie Lorenzo Anello Evan Wright Harry Fabian David Merrill Donald " Cień " Rimgale Max Cady James " Jimmy " Conway Leonard Lowe Stanley Cox Joseph " Megs " Megessey Ned Jack Walsh Louis Cyphre Al Capone Rodrigo Mendoza Archibald, Harry " Tuttle David " Noodles, Frank Raftis Rupert Pupkin Ojciec Des Spellacy Jake La Motta Michael " Mike ", Jimmy Doyle Alfredo Berlinghieri Travis Bickle Monroe Stahr Młody Vito Corleone Bruce Pearson Johnny Boy Danny Mardigian Mario Trantino Lloyd Barker Jon Rubin Sammy Nicoletti Cecil Jon Rubin Mężczyzna, Travis Bickle
+Locations: Griffin
+Organizations: Merrill Donald
+
+Movie: 3
+Sentences: 1
+Tokens: 23
+Stemmed forms (unique): 20
+Words from a dictionary (unique): 2
+People: 
+Locations: 
+Organizations: 
+
+Movie: 30
+Sentences: 0
+Tokens: 0
+Stemmed forms (unique): 0
+Words from a dictionary (unique): 0
+People: 
+Locations: 
+Organizations: 
+
+Movie: 31
+Sentences: 33
+Tokens: 409
+Stemmed forms (unique): 285
+Words from a dictionary (unique): 29
+People: Jack Nicholson, Francis, Jack Nicholson, Meryl Streep, Jack Nicholson, Meryl Streep, Tom Waits
+Locations: Albany, Albany
+Organizations: 
+
+Movie: 32
+Sentences: 22
+Tokens: 529
+Stemmed forms (unique): 326
+Words from a dictionary (unique): 22
+People: Herbert Berghof Studio, Bobby Deerfield, Al Pacino, Tony, Jimmy Hoffa Joe Paterno Frank Sinatra Seymour Tolbin Ray Archer Abrams Danny Collins Simon Axler A.J. Manglehorn Phil Spector Król Herod Val Detektyw Charles Stanford Al Pacino Jack Kevorkian Rooster Dr Jack Gramm Willy, Walter Abrams Shylock Walter Burke Starkman Roy Marcus Cohn Will Dormer Eli Wurman Viktor Taransky Harry Levine Lowell Bergman Tony D'Amato John Milton Benjamin " Lewus " Ruggiero Burmistrz John Pappas Richard III Porucznik Vincent Hanna Gitano Sabatoni Carlito Brigante Ricky Roma Podpułkownik Frank Slade Johnny Big Boy Caprice Michael Corleone Graham Detektyw Frank Keller Tom Dobb Tony Montana Ivan Travalian Steve Burns Arthur Kirkland Bobby Deerfield Don Michael Corleone Sonny Wortzik Michael Corleone Francis Lionel " Lion, Frank Serpico Michael Corleone Bobby Tony Król Herod Michael Corleone Don Michael Corleone, Steve Burns Tony Montana John James Doskonały, Al, Robert De Niro, Robert De Niro, Al Pacino
+Locations: Montana, Montana
+Organizations: The Basic Training, Roy Marcus Cohn Will Dormer Eli Wurman Viktor Taransky Harry Levine Lowell
+
+Movie: 33
+Sentences: 24
+Tokens: 409
+Stemmed forms (unique): 279
+Words from a dictionary (unique): 22
+People: Nick, Jack, Nick Wells, Robert de Niro, Jackie Teller, Edward Norton, Gdy Nick, Max, Edward Norton
+Locations: Hollywood, Howarda Shore
+Organizations: GENIALNY
+
+Movie: 34
+Sentences: 23
+Tokens: 479
+Stemmed forms (unique): 308
+Words from a dictionary (unique): 26
+People: Joe Pesci, John Ritchie, Martina Scorsese, Joe, Kevin, Russell Bufalino Charlie Bontempo Joseph Palmi Leo Getz Tommy Spinelli Joe Waters Nicky Santoro Jimmy Alto Simon Carmine Harry Vinny Gambini Leon, Bernstein, Leo Getz David Ferrie Louie Kritski Leo Carelli Tommy DeVito Harry Oscar Henner Leo Getz Pan Big David Rocky Nelson Frankie Manoldi Corrado Parrisi Mayakofsky Nicky Cerone Malarz, Ruby Dennis Roger Joey, Leo Carelli Joe Tancerz Vic, Jack Lider, Jimmy Alto Harry, Harry Lime Komar Mimo
+Locations: Hollywood, Hollywood
+Organizations: 
+
+Movie: 35
+Sentences: 23
+Tokens: 401
+Stemmed forms (unique): 282
+Words from a dictionary (unique): 27
+People: Bill, Stan, Bill
+Locations: 
+Organizations: 
+
+Movie: 36
+Sentences: 17
+Tokens: 390
+Stemmed forms (unique): 244
+Words from a dictionary (unique): 26
+People: Kevin, Joe Pesci, Daniel Stern, Kevin, Kevin, Kevin, Kevin, Ja
+Locations: 
+Organizations: 
+
+Movie: 37
+Sentences: 20
+Tokens: 281
+Stemmed forms (unique): 212
+Words from a dictionary (unique): 16
+People: Martin Riggs, Roger Murtaugh, Rene Russo, Gibson
+Locations: Los Angeles
+Organizations: 
+
+Movie: 38
+Sentences: 25
+Tokens: 541
+Stemmed forms (unique): 338
+Words from a dictionary (unique): 24
+People: Peter Parker, Peter Parker, Mary Jane, Peter, Alfred Molina, Mary Jane, 2", Peter Parker, Peter Parker\Spider-Man
+Locations: 
+Organizations: Tobey Maguire
+
+Movie: 39
+Sentences: 22
+Tokens: 444
+Stemmed forms (unique): 300
+Words from a dictionary (unique): 43
+People: Peter Parker, Spider-Man, Peter Parker, Peter, Peter, Sam Raimi
+Locations: Spider
+Organizations: Tobey Maguire
+
+Movie: 4
+Sentences: 1
+Tokens: 23
+Stemmed forms (unique): 20
+Words from a dictionary (unique): 2
+People: 
+Locations: 
+Organizations: 
+
+Movie: 40
+Sentences: 0
+Tokens: 0
+Stemmed forms (unique): 0
+Words from a dictionary (unique): 0
+People: 
+Locations: 
+Organizations: 
+
+Movie: 41
+Sentences: 89
+Tokens: 1634
+Stemmed forms (unique): 820
+Words from a dictionary (unique): 128
+People: Spielberg, Soldier, Sam Spielberg, Robert De Niro, Brak Szczęk
+Locations: Indiana
+Organizations: ET, War Horse
+
+Movie: 42
+Sentences: 32
+Tokens: 814
+Stemmed forms (unique): 494
+Words from a dictionary (unique): 39
+People: Francis Ford Coppola, Don Juanie DeMarco", Jack Mickler Tomas de Torquemada Carmine Sabatini Ian McKenzie Adam Steiffel Pułkownik Walter E. Kurtz George Lincoln Rockwell Jor-El Don Vito Corleone Robert E. Lee Clayton Don Vito Corleone Paul Peter Quint Sir William Walker Grindl Bud Ogden Mears Major Weldon Penderton Szeryf, Matt Fletcher Robert Crain Freddy Benson Harrison Carter MacWhite Fletcher Christian Rio Valentine, Lloyd Gruver Sakini Sky Masterson Napoleon Bonaparte Terry Malloy Johnny Marek Antoniusz Emiliano Zapata Stanley Kowalski Ken Wilozek, Johnny Strabler Paul Jor-El Don Vito Corleone Jor-El Jor-El Don Vito Corleone Paul Terry Malloy, Paul Walker
+Locations: Tennessee Williamsa
+Organizations: Fletcher Christian
+
+Movie: 43
+Sentences: 22
+Tokens: 631
+Stemmed forms (unique): 402
+Words from a dictionary (unique): 19
+People: Lee, Harold Jan Medyceusz Bob Hamman Riva Pan Hoppy Abraham Simkin Mistrz Carvelle Chester, Harvey Shine Pan Edward Magorium, Jules Hilbert Giuseppe Baldini Meyer Lansky Charles Frohman Bernard Jaffe Bernie Focker Krytyk Winston King Wendell Rohr Ben Floss Sumienie Doktor Norman Goodman Stanley Motss Max Brackett Teach Danny Snyder Sam Daniels Bernie Laplante Dutch Schultz Kapitan Jakub Hak Bełkot Vito Raymond Babbitt Chuck Clarke Willy Loman Michael Dorsey, Dorothy Michaels Wally Stanton Ted Kramer Max Dembo Thomas " Babe " Levy Carl Bernstein Lenny Bruce Louis Dega Alfredo Sbisà David Sumner Georgie Soloway Jack Crabb John Enrico " Ratso " Rizzo Niedzielny, Jason Fister Hap Benjamin Braddock Hanus Wicks Zoditch Shifu Shifu Shifu Shifu Shifu Roscuro Shifu Tucker Benedict Arnold Milquetoast-Karaluch, Robert Burke / Buddy, Raymond, Babbitt, Michael Dorsey, Dorothy Michaels Dwight Schultz/Thomas Babington Levy Raymond Babbitt, Ted Kramer Willy Loman Shylock, Peter Benjamin Braddock Rola, Ian Somerhalder, Wendy Riss Gatsiounis
+Locations: 
+Organizations: Pan Hoppy Abraham Simkin Mistrz Carvelle Chester, Bernie Focker Krytyk Winston King Wendell Rohr Ben Floss Sumienie Doktor, Pan Bergstrom, Variety "
+
+Movie: 44
+Sentences: 23
+Tokens: 360
+Stemmed forms (unique): 243
+Words from a dictionary (unique): 26
+People: Ben, Robert De Niro, Jules Ostin, Anne Hathaway, De Niro, Anna Hathaway, Nancy
+Locations: 
+Organizations: ZUS, NIE
+
+Movie: 45
+Sentences: 82
+Tokens: 1623
+Stemmed forms (unique): 926
+Words from a dictionary (unique): 64
+People: Barry, Eileen, Dzięki, Guy Ritchie, Ritchie, Jason, Brad Pitt, Benicio Del Toro, Dennis Farina, Vinnie Jones, Jason, Gary 'ego Gray, Kim Basinger, Międzyczasie Guy Ritchie, Li, Bruce Willis, Arnold Schwarzenegger, Jason, Clive Owen, Robert De Niro, Van Damme, Jennifer Lopez, Kelly Brook, Taylor Lee Christmas Deckard Shaw Arthur Bishop Nick Wild Deckard Shaw Rick Ford Lee, Joseph Smith, Wright Lee Christmas Arthur Bishop Brant Danny Bryce Lee, Frank Martin Jensen Ames Farmer Jack Crawford Yves Gluant Chev Chelios Frank Martin Jake Green Quentin Conners Bateman Ethan Mężczyzna, Frank Martin Sierż, Jericho Butler Agent Evan Funsch Mnich Turkish Pan B Bacon Frank Martin Turkish Tybalt Sierżant Waters Shrike MVA Agent Evan Funsch Lubię, James Bond
+Locations: Britain, Hollywood, Miami, Wyścig, Kelly Brook, Jericho
+Organizations: Film, Funsch Mnich Turkish Pan B Bacon Frank Martin Turkish Tybalt Sierżant Waters Shrike MVA Agent Evan Funsch Lubię
+
+Movie: 46
+Sentences: 26
+Tokens: 656
+Stemmed forms (unique): 455
+Words from a dictionary (unique): 30
+People: Martina Scorsese, Martina Scorsese, Bob Fredericks Anatoly Mac Schiltz Sonson Edward Baker Mick Boyle Smiley Salvatore Vitaglia Ludwig Bill Agati Aktor, Al Dowódca Pierce Tommy Thomas Randy Weir Duke White Don Carini Nino Detektyw Joseph Bruno Porucznik Gene Hunt Sadusky Zowie Terrtano Roger Culkin Kupiec John O'Neill Nicki Carr Weldon Parish Sadusky Walter McGrane Wuj Pio Zammeti Che Robards Prywatny, Jack Crawford Matt Benson Zolo Tony Roman Major Steve Arnold Muhsfeldt Leone Strażnik Szatan Starszy, Henry Klough Generał, Warren Black James Hager PJ Waters Mistrz Elvis Johnny Lowen Izzy Maurer Vernon Dabney Roy Egan Ray Donlan Harry Houdini George Jacob Fuller Auggie Wren Detektyw Rocco Klein Auggie Wren A Ray Weiler Shorty Kohn Winston, Harry Harrelson Eddie Israel George Baines, Tom Graham John Harris Larry Dimmick, Vince LaRocca Porucznik Mickey Cohen Detektyw John Woods Hal Slocumb Jake Berman Roderick Usher, The Black Cat, Frank Starkey Judasz Thomas Carl Penfield Gruber Alonzo Scolara Poncjusz Piłat Mickey Solly Berliner Bobby Dilea Klever Frankie Ed Lasky Mr. Legend Porucznik Fred O'Connor Rivas, Thomas Paine Cat Roddy Benson Inspektor Netusil Henry Jerry Bartowski Jimmy " Fingers " Angelelli Gabriel Feraud Ed Goodman Tony, Ken Hood Coleman Buckmaster Ben Bugsy Siegel Charlie Marynarz J.R. Żołnierz Gondo Przełożony Aldo Raine, Donald Jacques Byron Sullivan Jerry Talaba Klient Błękitnego Wieloryba Porucznik Pan White, De Niro
+Locations: Hollywood, Israel
+Organizations: Pan Biały, White /
+
+Movie: 47
+Sentences: 19
+Tokens: 695
+Stemmed forms (unique): 487
+Words from a dictionary (unique): 20
+People: Dorothy Brando, Frances Seymour Fonda, Peter, Henry Fonda, Gwiazda, Norman Thayer Jr. Joshua Turner Clarence Earl Gideon Pułkownik J.C. Kincaid Prezydent USA Albert Risley Stary, Frederick, Warner Generał Foster Dr Walter Krim Dziadek George Simon Davenport Elegant John Howard Gospodarz Senator Enfield Bassett Generał Douglas MacArthur Admirał Floty Chester W. Nimitz Pan Whitehead Kardynał Schuster Clarence Darrow Jack Beauregard Allan Davies Mark Sawyer Mark Forbes Carl Tiflin, Smith Woodward, Lopeman Harley Sullivan Kapitan John G. Nolan Henry Stamper John S. Bottomley Frank Bob Larkin Frank Beardsley Komisarz Anthony X . Russell Burmistrz Will Blue Ben Chamberlain Meredith Pułkownik Kiley Marion, Lewis Dimitri Koulov, Nimitz William Russell Prezydent Frank Broderick Clay Spencer Generał, Theodore Roosevelt Jr., Robert A. Leffingwell Clay Blaisedell Willie Bauche, Simon Fry, Lewis Easton Przysięgły, Hickman Manny Balestrero Pierre Biezuchow Douglas A. Roberts Kelner, Podpułkownik Owen Thursday Lank Joe Adams Peter Lapham Ksiądz, Gil Carter Kapral Colin Spence Thadeus Winship George Agustus Pinkerton Tommy Turner John Wheeler Charles Pike Peter Kirk John Murdock Tom Joad Frank James Chad Hanna Alexander Moore Gilbert Martin Frank James Abraham Lincoln Thomas Watson, Dillard Marco Peter Ames Jim Kimmerlee Ives Towner Jack Merrick Eddie Taylor Slim Kincaid Kerry Gilfallen Townsend Middleton Anthony Amberton, John Smith Dave Tolliver Dan Harrow Jonathan, David Bartlett Dyrektor, Tom Joad / Wyatt Earp John Steinbeck ", Grant Wood, James Stewart, Marlon Brando, Robert De Niro, Fonda
+Locations: Grand Island, Farmer Bierze, Hollywood, Floty Chester, Chad, Jr.
+Organizations: Harley Sullivan Kapitan John, Morgan ", Lincoln Thomas Watson, Ames, Jim Kimmerlee Ives Towner Jack Merrick Eddie Taylor Slim Kincaid Kerry Gilfallen Townsend Middleton Anthony Amberton
+
+Movie: 48
+Sentences: 26
+Tokens: 525
+Stemmed forms (unique): 364
+Words from a dictionary (unique): 29
+People: Daniel Day Lewis, Jenny Everdeane, Cameron Diaz, Jenny, Leo DiCaprio, Daniel Day-Lewis, Daniel Day-Lewis, Leo Bonhartem, Daniel Day Lewis, Cameron Diaz
+Locations: Amsterdam, Amsterdam
+Organizations: 
+
+Movie: 49
+Sentences: 16
+Tokens: 328
+Stemmed forms (unique): 232
+Words from a dictionary (unique): 13
+People: Max Cady, Robert De Niro, Nick Nolte, Jessica Lange, Lewis, Day Lewis - Sheridan, Max Cady, Jedynie DeNiro
+Locations: 
+Organizations: 
+
+Movie: 5
+Sentences: 16
+Tokens: 235
+Stemmed forms (unique): 185
+Words from a dictionary (unique): 12
+People: Mike Banning, Pablo Escobar
+Locations: 
+Organizations: City Hall
+
+Movie: 50
+Sentences: 17
+Tokens: 502
+Stemmed forms (unique): 350
+Words from a dictionary (unique): 27
+People: Edward Księżak
+Locations: 
+Organizations: 
+
+Movie: 51
+Sentences: 14
+Tokens: 458
+Stemmed forms (unique): 311
+Words from a dictionary (unique): 17
+People: Robert De Niro, De Niro, Tony Angelo Bruno Angelo Casella Ben Rose Jerry Joe Fine Marvin Milkshake Geno Scarpacci Frank Gregorio Sal Fontaine Yonkers Joe George Lee Maxwell Detektyw Rydell Vince Monty Walken Tweat Frank Pacelli Kassada Frank McNeil Arizona Joe King Paul Castellano Eddie Dugan Primo Sindone Smokey Giovanni Falcone Phil Laine Devon Benny Zadir Elleroy Coolidge Guy Baran Tony Dave Kujan, John Pirelli Cheech Sonny LoSpecchio Tony Lyle Corrente Connie Żołnierz Drummond Zbir Porywacz, Babe Ruth Salvatore " Sal " DeLuca Agent, Frank Rizzoli, Vinci, Perry Cannavaro Peter Alatorre Sierżant Marcy Frank
+Locations: Los Angeles, Dallas ", Yonkers Joe
+Organizations: Marvin Milkshake Geno Scarpacci Frank Gregorio Sal, Woolworth Buster Frank Rizzoli
+
+Movie: 52
+Sentences: 16
+Tokens: 540
+Stemmed forms (unique): 343
+Words from a dictionary (unique): 20
+People: Peck Gregory, Eldred, Gregory Peck, Lee Thompsona, Gregory Peck, Lee Heller Andrew Jorgenson Ambrose Bierce, Prezydent Monsignor Hugh O'Flaherty Abraham Lincoln Pułkownik Lewis Henry Owain Pugh Doktor Josef Mengele Generał, Douglas MacArthur Robert Thorn Arch Deans Clay Lomax Szeryf Henry Trawers Mackenna Doktor John Hathaway Charles Keith Sam Varner Profesor David Pollock David Stillwell Manuel Artiguez, Newman Atticus Finch Sam Bowden Cleve Van Valen Kapitan Keith Mallory Komandor Dwight Lionel Towers F. Scott Fitzgerald Porucznik Joe Clemons James McKay Jim Douglas Mike Hagen Kapitan Ahab Tom Rath Henry Adams Pułkownik Steve Van Dyke Major, Bill Forrester Joe Bradley Kapitan Jonathan Clark Harry Street Król Dawid Kapitan Richard Lance Kapitan Horatio Hornblower Jimmy Ringo Fedja Generał, Frank Savage James " Stretch " Dawson Philip Schuyler Green Anthony Keane Robert Wilson Lewton, Penny Baxter John Ballantyne Paul Scott Vladimir Ojciec Francis Chisholm Robert Thorn Joe Bradley Król Dawid Robert Thorn Atticus Finch Jimmy Ringo, Joe Bradley
+Locations: San Diego, Los Angeles, Berkeley
+Organizations: 
+
+Movie: 53
+Sentences: 0
+Tokens: 0
+Stemmed forms (unique): 0
+Words from a dictionary (unique): 0
+People: 
+Locations: 
+Organizations: 
+
+Movie: 54
+Sentences: 0
+Tokens: 0
+Stemmed forms (unique): 0
+Words from a dictionary (unique): 0
+People: 
+Locations: 
+Organizations: 
+
+Movie: 55
+Sentences: 0
+Tokens: 0
+Stemmed forms (unique): 0
+Words from a dictionary (unique): 0
+People: 
+Locations: 
+Organizations: 
+
+Movie: 6
+Sentences: 30
+Tokens: 470
+Stemmed forms (unique): 315
+Words from a dictionary (unique): 25
+People: Michael, Francis Ford Coppola, Mario Puzo, Don Vito, Roberta De Niro, Al Pacino, Robert De Niro, Al Pacino
+Locations: 
+Organizations: 
+
+Movie: 7
+Sentences: 21
+Tokens: 440
+Stemmed forms (unique): 320
+Words from a dictionary (unique): 18
+People: Henry, Tommy DeVito, Martin Scorsese, Kilkunastoletni Henry, Jimmy 'ego Conwaya, Robert De Niro, Henry, Jimmy, Tommy DeVito, Martin Scorsese, Donnie Brasco Dawno, Henry
+Locations: Hollywood
+Organizations: Warner Home Video
+
+Movie: 8
+Sentences: 23
+Tokens: 385
+Stemmed forms (unique): 276
+Words from a dictionary (unique): 22
+People: Ted Tally
+Locations: Buffalo
+Organizations: FBI, Thomasa Harrisa
+
+Movie: 9
+Sentences: 23
+Tokens: 479
+Stemmed forms (unique): 301
+Words from a dictionary (unique): 29
+People: Sergio Leone, Sergio Leone, Sergio Leone, Sergio Leone, Film
+Locations: Manhattan
+Organizations: 
+
+---------OVERALL STATISTICS----------
+Verbs: 8,35%
+Nouns: 55,81%
+Adjectives: 5,32%
+Adverbs: 0,79%

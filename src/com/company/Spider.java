@@ -1,5 +1,9 @@
 package com.company;
 
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
+
 import java.io.*;
 import java.net.URL;
 import java.net.URLConnection;
@@ -57,6 +61,34 @@ public class Spider {
                 + this.successPagesUrls.size() + " pages containing the keyword.");
     }
 
+    public void searchAll(String url, int maxPagesToSearch)
+    {
+        Set<String> pagesVisited = new HashSet<String>();
+        List<String> pagesToVisit = new LinkedList<String>();
+        List<String> successPagesUrls = new ArrayList<String>();
+        while(this.pagesVisited.size() < maxPagesToSearch)
+        {
+            String currentUrl;
+            SpiderLeg leg = new SpiderLeg();
+            if(this.pagesToVisit.isEmpty())
+            {
+                currentUrl = url;
+                this.pagesVisited.add(url);
+            }
+            else
+            {
+                currentUrl = this.nextUrl();
+            }
+            leg.crawl(currentUrl); // Lots of stuff happening here. Look at the crawl method in
+            // SpiderLeg
+                this.successPagesUrls.add(currentUrl);
+
+            this.pagesToVisit.addAll(leg.getLinks());
+        }
+        System.out.println("\n**Done** Visited " + this.pagesVisited.size() + " web page(s) \n Found "
+                + this.successPagesUrls.size() + " pages containing the keyword.");
+    }
+
 
     /**
      * Returns the next URL to visit (in the order that they were found). We also do a check to make
@@ -76,9 +108,9 @@ public class Spider {
         return nextUrl;
     }
 
-    private void deleteResFiles(){
+    private void deleteFiles(String path){
         try {
-            for (File file : new java.io.File(".\\res\\").listFiles())
+            for (File file : new java.io.File(path).listFiles())
                 if (!file.isDirectory())
                     file.delete();
         }
@@ -87,12 +119,12 @@ public class Spider {
 
     public void saveFoundPages(){
         int i=0;
-        deleteResFiles();
-        new File(".\\res").mkdirs();
+        deleteFiles(".\\res\\pages\\");
+        new File(".\\res\\pages").mkdirs();
         for(String s : successPagesUrls){
             System.out.println("Saving... "+ s);
             try {
-                OutputStream out = new FileOutputStream(".\\res\\" + i++ + ".html");
+                OutputStream out = new FileOutputStream(".\\res\\pages\\" + i++ + ".html");
                 URL url = new URL(s);
                 URLConnection conn = url.openConnection();
                 conn.connect();
@@ -105,6 +137,24 @@ public class Spider {
 
         }
     }
+
+    public void saveFoundPagesContent(){
+        int i=0;
+        deleteFiles(".\\res\\contents\\");
+        new File(".\\res\\contents").mkdirs();
+        for(String s : successPagesUrls){
+            System.out.println("Saving... "+ s);
+            try {
+                BufferedWriter out = new BufferedWriter(new FileWriter(".\\res\\contents\\" + i++ + ".txt"));
+                Document doc = Jsoup.connect(s).get();
+                Elements ps = doc.select("p");
+                out.write(ps.text());
+                out.close();
+            }
+            catch (Exception ignored){}
+        }
+    }
+
 
 
     private static void copy(InputStream from, OutputStream to) throws IOException {
